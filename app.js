@@ -10,3 +10,4 @@ let PalpiteIdade = prompt("Idade do usuário")
 if(palpiteIdade => 18){
     alert("Pode tirar a habilitação!")
 }
+
